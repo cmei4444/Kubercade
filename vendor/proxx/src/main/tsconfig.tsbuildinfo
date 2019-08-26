@@ -1,0 +1,1044 @@
+{
+  "program": {
+    "fileInfos": {
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
+        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1",
+        "signature": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
+        "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
+        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
+        "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
+        "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts": {
+        "version": "fbd325f6c04cb0ba9a8db974d15901956f670e757a5ff44da06639c3e9511250",
+        "signature": "fbd325f6c04cb0ba9a8db974d15901956f670e757a5ff44da06639c3e9511250"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/tslib/tslib.d.ts": {
+        "version": "8a0a25ded65c0cb7b03c0109bc6ca580eeb8435bb073c5fb89cd043c9a1ee42e",
+        "signature": "8a0a25ded65c0cb7b03c0109bc6ca580eeb8435bb073c5fb89cd043c9a1ee42e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts": {
+        "version": "000f9a12b26b67e6608a3540c2229c3a05ca589f89ee72f05f78c1a9e0b3328b",
+        "signature": "000f9a12b26b67e6608a3540c2229c3a05ca589f89ee72f05f78c1a9e0b3328b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts": {
+        "version": "2b6e03de4c224d4dccc6bbefaf1cd4f968faa0f405a23c9c70ed1d3c2869d4de",
+        "signature": "432ff9701e1efd56ea2435158977f5a15efd5d7009c30ad6ad36d89c67795ac8"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts": {
+        "version": "dc4276c42f0eca1607e8f315973712a5018d132b77e63878c909b2dfe0c2ca9c",
+        "signature": "9bbd8ef471b8b248d91c21e48f9b53dc4bfe81bf1ff78557c205ea7ffc32038b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/utils/bind.ts": {
+        "version": "ae458e627e2c78b9f0c70bc1807f859e0c58516c0dc7dc349a737ff82bee21bb",
+        "signature": "ae458e627e2c78b9f0c70bc1807f859e0c58516c0dc7dc349a737ff82bee21bb"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/types.ts": {
+        "version": "6b177bf0e3bc0c9f974502ee86bd92268f427fd1ce7c441a5f5b00a985d20b3d",
+        "signature": "6b177bf0e3bc0c9f974502ee86bd92268f427fd1ce7c441a5f5b00a985d20b3d"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts": {
+        "version": "a0718ff157f80c2bdebdc68aa2bab88da96a62a4d3717cf969e3800640155a7b",
+        "signature": "04530240f1d1ec3c10a00e82c9dd17996794d6aeea782f35a08c41b5085c8e2e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts": {
+        "version": "8406c4832c45faaa28e2279445b11bc4a3c2a1451164dd9bfd61ab7b7542406a",
+        "signature": "b7ad58af7b28eb8aecdfc042768dbfa2df3393f1bff3933e234effa03b0f584f"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts": {
+        "version": "f658b846801c8e5d94e6667aba3780267571b38d94c4ac3671c490fadcecf54d",
+        "signature": "f658b846801c8e5d94e6667aba3780267571b38d94c4ac3671c490fadcecf54d"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts": {
+        "version": "993c425be378731bf79521fcbc25ef518be04ae307fb5da0772f447b53ab254a",
+        "signature": "bed56e1d402cbe38f724f0ab27ce75888932c065cc84243241e08be3623f6e78"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-default.ts": {
+        "version": "36ab7e59d1a33ce5423b1c94596e649581c68a5316e56af53466aee9df8d9ec2",
+        "signature": "d632838c20d489d82ae84f6967bd3426f7a43466ffb6c8ff5f6311b820076905"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/protocol.ts": {
+        "version": "596b080bd74f6006499dc7927c652628e1b83c3ee0a2757dbc1cf9564bdab290"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts": {
+        "version": "91a66f40810a71c6d8eb080d8e3cc7ac8cd52fce6c9c07ca3a2da4c16ac3ca8f",
+        "signature": "817d730f6c2ffcc8e53f120c78f206edde0bd5e0749d2cef60c682f93fd692ed"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/index.ts": {
+        "version": "fcb27550f5038495ed10b0b419ec7ffc3ca372371fa6b0130ba9dc1ee72b8ade",
+        "signature": "fcb27550f5038495ed10b0b419ec7ffc3ca372371fa6b0130ba9dc1ee72b8ade"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/state-service.ts": {
+        "version": "33d008ebf5a6b82d2752431a20583c5047c2b8c44f0d20e0d9f6d4924b929256",
+        "signature": "33d008ebf5a6b82d2752431a20583c5047c2b8c44f0d20e0d9f6d4924b929256"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/utils/scheduling.ts": {
+        "version": "5a4540297e419efa682aabc3adf9ade266faf9f0dc1267c50f81bdc7d80f203e",
+        "signature": "5a4540297e419efa682aabc3adf9ade266faf9f0dc1267c50f81bdc7d80f203e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/offline/index.ts": {
+        "version": "39bbfec2f70a07afcff9bddf56b60e7a07b8cf17d024bf79db9e465be0b0ab0e",
+        "signature": "73175d9a2043b4c9b1c8325cd205f879d5154ad5af53442375176bc4e3dd4dba"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/style.css.d.ts": {
+        "version": "60966f83f776faa75782e6aa12b562cbab42cd99e5370aee2bbbaf6affc45950",
+        "signature": "60966f83f776faa75782e6aa12b562cbab42cd99e5370aee2bbbaf6affc45950"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/style.css.d.ts": {
+        "version": "fe545f067b070a5df0b49b2e84fadcdaba387e363fcbfc30efda19c80ae1eb9b",
+        "signature": "fe545f067b070a5df0b49b2e84fadcdaba387e363fcbfc30efda19c80ae1eb9b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-selector.ts": {
+        "version": "92038afebbe7b4a1b075fa0aa1f735dccf824e4abb5e81c7a1a5341b54cacc5f",
+        "signature": "957d0a00d07c53b3c4aeebd5ac6fde28a4a5608e70c49e0aa27592902c19917e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts": {
+        "version": "4389da49539f01c9194a04bfd23e1a4f90d999ae0ab4a4b31a60753e84d8815a",
+        "signature": "c5fe2b7739a927a80e5a75e6630e7834c7840c68df1ad9b3285238dbcf05c2f0"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts": {
+        "version": "8784e7af49605306f8a491d7a1b8a3c68081b5ab4c6907a81221de53266b09c5",
+        "signature": "7c7910538f370cb6dabfefcb97dffc8ccaf86f22e83ba410d93b47bd4534ece7"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-helper.ts": {
+        "version": "c8ce9317f5dbeea29164b2c98629c4a6131b1bf2c5ef79f1833c1549c9c15d93",
+        "signature": "0f69d889595a6d22b215e578c999060bac25b7c40700f3ac0dce47c4e82932bc"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts": {
+        "version": "25d439503651456f90f43355e06380f550a542ada39f7f2507d0888d14b1482d",
+        "signature": "7b5b85255876c73c4a87c0e4fa81a7960aca388f5876b4695cf6f551885ec684"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts": {
+        "version": "cb2821324f0efcc241707b156d89ac2c9bc15c75e59b971cffb9c529676b575c",
+        "signature": "feb3e9ef6005dde4f69e4f9c20adb1ab85828ac8864b4336a288268e45b60d58"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts": {
+        "version": "f51accd7a4ec80d90dcd3181811d52e9e0e48e4848dd289af59cd09857237820",
+        "signature": "736c76ec9c8be8352c188b091975fae049f5e496080690b058d673e406971e0c"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts": {
+        "version": "2ef085ed639b2d8c289bc9d8ec5ec878920c4efcc61447ca20d75df4370edbbd",
+        "signature": "229ba12f024b7050793eaf88074b8d9468e45a99be3921ec72dd960366244c86"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts": {
+        "version": "1d2216b169220e0223fb9e94c457c98d690a1c95b1fee9417504ba603c19d3ee",
+        "signature": "7595300a4e7423dffad57a757b75aa41a28543325e19c7e186cfe1953684fb33"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts": {
+        "version": "c3ce4946f7e159df0817998e46c93d8fb69742a428fdacd20d8ecfd68d6dc4da",
+        "signature": "dc19da1caa297b1a2e75e3b4f115ce4677506c35bd45698429d9fe8de4893841"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/motion-preference.ts": {
+        "version": "636e633d7eb8f46181cb6111283ec3eec8e7c7561e774259ab6b604f242e6bf3",
+        "signature": "88ef7cb9220e8f28b126208ea2464fb94c9c36433b7dcb395ce68dfc52c170a5"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts": {
+        "version": "1ab587f888bec8bb5bbdc7cee1343aa2156e861b1ac8193425b58b116625da0b",
+        "signature": "dd308702ccc65a95435d18d616f436f783cb82ec65f7d4cefb1238cc126512b1"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts": {
+        "version": "137ccca278a1a4db9c9b00c4314cbb32254eeabae2052ed114143247172054e4",
+        "signature": "70e80a639c6f6980e3f1e9464613b14972b2577f7db6dabf66264912c03ce217"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/local-state-subscribe.ts": {
+        "version": "66d1a20ee4670aa7b7d8af1148361ea1035e7b9704d696337ce3f51b70a0c0bd",
+        "signature": "c0a5d103ca500478fa7126566f6ae717b24b22b242be9e3374d3ce1c36f0d1ab"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/initial.tsx": {
+        "version": "44345976d1b25d03b983a11d57da62306adb7d2e66d4bb44e35d9651b807b00e",
+        "signature": "bd23c8fa4bd3db3864edc5d3fc705a90e828412b6e735217b69b2a085e62bbce"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/index.tsx": {
+        "version": "69d24f3b805967fe7e01fdf687d9100e84ce0e375ec49e65f95e4ff7c6e64819",
+        "signature": "e7651e461f481bb6c61b57aa4b3b4666f540210f5af087410f2dfb927141c5e4"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx": {
+        "version": "9b30cbce6d64bebbbb6dc7869ff8dc33a52dbb081af581e2eda52fa6fe9835d4",
+        "signature": "4b50a7f13b9c1fad97c38ec6c85a5e1ef51f29216815bd5d718577a1ca0da3ba"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/style.css.d.ts": {
+        "version": "df01b747a60ec459571ee979682d5a8da50c0b4d8e3dbcb78a2ae783e8736cb5",
+        "signature": "df01b747a60ec459571ee979682d5a8da50c0b4d8e3dbcb78a2ae783e8736cb5"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/index.tsx": {
+        "version": "2fa1860194055a8325526667df1d6d092ce37ba02687695b1e9daff2e959be54",
+        "signature": "f1ad41c49cffc98cbb503e39033daeef34009c30d165519b18371d9fc82088ff"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/style.css.d.ts": {
+        "version": "e4eba0c65c082c8da6e9d0aec9556fd46d1f36c3a01ffa239eb772a3d434470a",
+        "signature": "e4eba0c65c082c8da6e9d0aec9556fd46d1f36c3a01ffa239eb772a3d434470a"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts": {
+        "version": "6c4ce2b89a896da67a2e001a3bff2386c76c05556e5c10e345baa360cb487310",
+        "signature": "77c82ef2a50ccc4aaf0f0da5b3a76945b028c1c6125f89560cc6a3cd6a60d0de"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/focus-visible.d.ts": {
+        "version": "1aaabff3b688fb7e1d3fe668e5fbbc952cf147710408eda8f4b73a6c55632b71",
+        "signature": "1aaabff3b688fb7e1d3fe668e5fbbc952cf147710408eda8f4b73a6c55632b71"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/canvas-pool.ts": {
+        "version": "4de76ea50201d40017f86286860061c79222e620c33b91fdcd9b2c32084b2bd6",
+        "signature": "e75e15d8b993759be88dc5d7051c02defbcd35e3921bcaa701b3e6a33df3d1da"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/style.css.d.ts": {
+        "version": "b82a1756e0d2a6d2962f5b1b647b1b0a1c7394faa1914815de60dc9d398d462e",
+        "signature": "b82a1756e0d2a6d2962f5b1b647b1b0a1c7394faa1914815de60dc9d398d462e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/index.tsx": {
+        "version": "52996737de8d9edebd84cc6362af13022bca59bebdeda2965be6b7008846e52a",
+        "signature": "a64d452261a112005b5f0826977f424293dd2b59b26010362e79529e814c89af"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/format.ts": {
+        "version": "33442a76e1a1f419302f60cdc71d2e876e56de0e2f11e5d677a7d7d627251f2a",
+        "signature": "5c386860f8c77ed75963b6341bb38b4ee3ac90a2035c5ca1054bef6b912c493d"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/style.css.d.ts": {
+        "version": "6e960a328c532e451d80278bcee10d38ef984cfadc9990f14a33c41379e4e464",
+        "signature": "6e960a328c532e451d80278bcee10d38ef984cfadc9990f14a33c41379e4e464"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx": {
+        "version": "0fb5a0ebdc314a6086fe2c0558f93c892a6d22fe9805040ecc1703bd1274b99c",
+        "signature": "3d2001ecbcc84a487b232d506c6861f571831cb7af13d9a284dfeaf7d7c1495e"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/index.tsx": {
+        "version": "71317a29585f3e49b70e3f48dafd05ee37e43f5cdb135b72553be3075285fe1f",
+        "signature": "8db640510637dc56b4d89a9759dd79ace36902529a5077c8ab3499dcaee71ab6"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/style.css.d.ts": {
+        "version": "2cd36a4f9ab131abff84b4c771b933d8fbc8a173eb5d4c891698a48f131a5ae7",
+        "signature": "2cd36a4f9ab131abff84b4c771b933d8fbc8a173eb5d4c891698a48f131a5ae7"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/index.tsx": {
+        "version": "3a9e4a0b7923f0e9d214b3a7a3d9a9d7917f31fa937426a3ea0119151b0b91a6",
+        "signature": "5b0b26ebd3617ece49226b82793db905350d40406230d2fe2af24656c9360601"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/style.css.d.ts": {
+        "version": "971c420f4ac9b002287753e170ebc88302d90ae2c1855a3f9e50091352b53607",
+        "signature": "971c420f4ac9b002287753e170ebc88302d90ae2c1855a3f9e50091352b53607"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/webgl-renderer/index.ts": {
+        "version": "0f4ae23a8520d036482b9e71b28d8dc5ea88886d2d8d20858aa50824f037c9f3",
+        "signature": "d5e2feddabf4b44f91c9a3dacef44e26b1476f9113680c62a1f01ee1d1d06fe2"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/time-provider.ts": {
+        "version": "8da10582aef7469e9141930b4dbbb4a7b6d2719df10cf54a1875815dd0bb5081",
+        "signature": "302b4ab6716106215d24ea8e26ad62715f5c9c65a408f509c2441930474199bc"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/motion-animator/index.ts": {
+        "version": "869045f9124f60445a9b1824434eaae50d28430b4937b357297c2a85fe773fcd",
+        "signature": "d44b64e25e07fce0d0dcc33c56059c11c21731f101f51974e17c711bf11477f6"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-2d-renderer/index.ts": {
+        "version": "c4aa02fc6faa90e10c55158a5671d48f20c5740aca45bb0f8d2b5ba1665b823d",
+        "signature": "9ef531167637a8c6e4a17ca0ca759c9a2918db1ca36daae8fabc20fb9acb9376"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/no-motion-animator/index.ts": {
+        "version": "b32826817197630e39dfe1d99e4ba91e7abb2a6a2a59393a6a17715414b980a9",
+        "signature": "7f7b81b3fa0f6523d042095c070a2dc7d524d30cfafe93828f1bfde1845a4be9"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx": {
+        "version": "58e4e376fd958236ec13cf2c833f7a2a624ed67afe3b8057511e0f788b4e056d",
+        "signature": "3bbac5b9bc3ee2f2fe9b74771e56ebd2939fd7716eab87f4f93364ca4d82ec8a"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/style.css.d.ts": {
+        "version": "4107c6b7bcd25692228692ece099ed3b043eb1d4f00129bdfce000be058a103c",
+        "signature": "4107c6b7bcd25692228692ece099ed3b043eb1d4f00129bdfce000be058a103c"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/debug/index.ts": {
+        "version": "6a8d999ed8eec9670f832c69912ee3cc07d6b4439cd4ed4168f6c6968fb25e5a",
+        "signature": "8fb11d4e9f2e9309ab16bbd4e079c3166accecad340e6760e93ccc9deef1eb0c"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx": {
+        "version": "dc2f649cb8be7769b32f1b4d1b253da1e296f870790b043dc4409f9b7022d0f6",
+        "signature": "ad097766fa5fb8b45c514d42ee392be635ba85b5cbde360e93768ab9fd5d2cbf"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/style.css.d.ts": {
+        "version": "cd9ec1b9a41ef5ddb3b6b0afeed1744141935ad37dce214a711f1e8936f0dee7",
+        "signature": "cd9ec1b9a41ef5ddb3b6b0afeed1744141935ad37dce214a711f1e8936f0dee7"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/index.tsx": {
+        "version": "a3cba6af0585e7507028388e96e6cc7753a27c5982d33e51563550359f27dea0",
+        "signature": "e6efc9b98416f924193f8d618c42b0f7ff041f2c30e6f805e828f73eda5b7740"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/style.css.d.ts": {
+        "version": "8db84d827c769d47c392afd0e71a89368892a1d9fa966be1de2a154f4f00e188",
+        "signature": "8db84d827c769d47c392afd0e71a89368892a1d9fa966be1de2a154f4f00e188"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx": {
+        "version": "b90324592ba95554806d7eba1dfb9fdd6d0e3ce691086fe6163992155e8ed7e9",
+        "signature": "df80c88f5234b266aec91a7113edc6bceed3af46ccb53b35359ec4c116bbb36d"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/style.css.d.ts": {
+        "version": "77b833f9e290f2344de90c87372ee0460120c6749b4010fa1dbc7ca2a7b0fbeb",
+        "signature": "77b833f9e290f2344de90c87372ee0460120c6749b4010fa1dbc7ca2a7b0fbeb"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx": {
+        "version": "43cbbb80b95121f8d9f401fc36b9ccd150043908de11bf74c98c6629c064cb93",
+        "signature": "cf10bb3809d6b636051b3d1ae0f934b9243d450327452060cb842317163b47ed"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts": {
+        "version": "67c594ed8e99f703efe5f1a5a123684fbcdf5f5f1a2b64d95c6c74a8e075a6fb",
+        "signature": "dfbdca14cc3363b3e595618ca0ea45ba0a7e9dadb8369337b930685a33c9a419"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/index.tsx": {
+        "version": "7891b6e5be93688c7a3dcb29777de4c154313c34939d4ff13191c4235818bf70",
+        "signature": "8a46ddc1b3adebbbb5ce38eeb4a3e10c04ab7c389a27d5b2c1b44fc533a7eb8b"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/style.css.d.ts": {
+        "version": "491210bd8161cbdc690972e491ec15d762379c4030b66a8fc9208560113ba733",
+        "signature": "491210bd8161cbdc690972e491ec15d762379c4030b66a8fc9208560113ba733"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/protocol.d.ts": {
+        "version": "096f1f0ba73751eacc6cb5ae1e02f1dad5ed2b25f8add0d56a7d18502e856ee3",
+        "signature": "096f1f0ba73751eacc6cb5ae1e02f1dad5ed2b25f8add0d56a7d18502e856ee3"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts": {
+        "version": "5880deb7c22ccbba55cb8bba3178b41c6d9ce6818de16d86b94691ea62df93aa",
+        "signature": "5880deb7c22ccbba55cb8bba3178b41c6d9ce6818de16d86b94691ea62df93aa"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/index.ts": {
+        "version": "10ab912956f4f36e64e97c77e0737243ae89f247dffe97b9e1c393d022fdfb31",
+        "signature": "10ab912956f4f36e64e97c77e0737243ae89f247dffe97b9e1c393d022fdfb31"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx": {
+        "version": "2c31c08f88cca1c3032edb345d75801272356c35850c4f0981c5588469201587",
+        "signature": "c4b3f03bb27469eee223f86655afce3079849be677823196d29b4c6c09efb5b2"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/style.css.d.ts": {
+        "version": "096839a916768595f0aff1336acc924f9a2b3ed08b702c274aa8dea2bfeb5feb",
+        "signature": "096839a916768595f0aff1336acc924f9a2b3ed08b702c274aa8dea2bfeb5feb"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/bootstrap.tsx": {
+        "version": "76d78abbecae4ad062b90bb6c1949d9e94821c1400b51b85fb09880c46fa9714",
+        "signature": "27952cef891e339c06a0f504c6dbe23a809a30342caa49d8e6b08fa851623f37"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts": {
+        "version": "bf2472bcb7a3fbc65ac710f5b2777b5dd910f674205e76da46ac8fc75aee3185",
+        "signature": "bf2472bcb7a3fbc65ac710f5b2777b5dd910f674205e76da46ac8fc75aee3185"
+      },
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/utils.css.d.ts": {
+        "version": "0a0605b1b36b2565441024286c2fea5d4ae8fee5f315d0d6653eca16e1e32eaa",
+        "signature": "0a0605b1b36b2565441024286c2fea5d4ae8fee5f315d0d6653eca16e1e32eaa"
+      }
+    },
+    "options": {
+      "experimentalDecorators": true,
+      "target": 1,
+      "downlevelIteration": true,
+      "module": 6,
+      "jsx": 2,
+      "jsxFactory": "h",
+      "strict": true,
+      "moduleResolution": 2,
+      "outDir": "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp",
+      "composite": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "importHelpers": true,
+      "baseUrl": "/usr/local/google/home/mcarolyn/Documents/proxx/",
+      "rootDir": "/usr/local/google/home/mcarolyn/Documents/proxx/",
+      "lib": [
+        "lib.esnext.d.ts",
+        "lib.dom.d.ts",
+        "lib.dom.iterable.d.ts"
+      ],
+      "paths": {
+        "src/*": [
+          "./src/*"
+        ]
+      },
+      "types": [],
+      "configFilePath": "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/tsconfig.json"
+    },
+    "referencedMap": {
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-default.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/protocol.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/state-service.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/offline/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-selector.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-helper.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/scheduling.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/motion-preference.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/scheduling.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/offline/index.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/motion-preference.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/local-state-subscribe.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/initial.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/initial.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/canvas-pool.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/format.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/format.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/webgl-renderer/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/canvas-pool.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/motion-animator/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/time-provider.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-2d-renderer/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/canvas-pool.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/time-provider.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/no-motion-animator/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/time-provider.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/focus-visible.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/webgl-renderer/index.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/motion-animator/index.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-2d-renderer/index.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/no-motion-animator/index.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/debug/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/debug/index.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/initial.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/protocol.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/bind.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-default.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/local-state-subscribe.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/style.css.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/index.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/bootstrap.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/style.css.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-default.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/debug/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/webgl-renderer/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/no-motion-animator/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-2d-renderer/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/motion-animator/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/utils/scheduling.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/offline/index.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/motion-preference.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/local-state-subscribe.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/types.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/state-service.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/gamelogic/index.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/index.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts",
+        "/usr/local/google/home/mcarolyn/Documents/proxx/.ts-tmp/src/worker/state-service.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/protocol.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts"
+      ],
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts": [
+        "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/protocol.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es5.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.dom.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/missing-types.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/tslib/tslib.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/preact/dist/preact.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/constants.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-rgb.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/utils/bind.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/types.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/constants.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/static-display.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/idb-keyval/dist/idb-keyval.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-presets.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/grid-default.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/protocol.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/src/comlink.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/gamelogic/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/state-service.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/utils/scheduling.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/offline/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/to-selector.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/cell-sizing.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation-helpers.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-helper.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-generators.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/texture-cache.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animation.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/shaderbox.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/renderer.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/best-times.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/motion-preference.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/vibration-preference.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-load.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/state/local-state-subscribe.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/initial.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/bottom-bar/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/deferred/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game-loading/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/animator.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/focus-visible.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/canvas-pool.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/board/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/utils/format.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/icons/additional.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/top-bar/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/win/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/webgl-renderer/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/time-provider.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/motion-animator/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/canvas-2d-renderer/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/rendering/no-motion-animator/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/game/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/debug/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/nebula/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/about/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/settings/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/showbiz-title/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/lazy-components.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/components/intro/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/protocol.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/node_modules/comlink/dist/umd/comlink.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/worker/index.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/index.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/style.css.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/bootstrap.tsx",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/missing-types.d.ts",
+      "/usr/local/google/home/mcarolyn/Documents/proxx/src/main/services/preact-canvas/utils.css.d.ts"
+    ]
+  },
+  "version": "3.5.2"
+}
